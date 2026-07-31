@@ -1,0 +1,11 @@
+{
+  "appId": "com.anaconda.mytv",
+  "appName": "ANACONDA MyTV",
+  "webDir": "www",
+  "bundledWebRuntime": false,
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 1000
+    }
+  }
+}

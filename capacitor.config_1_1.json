@@ -1,4 +1,3 @@
-
 {
   "appId": "com.anaconda.mytv",
   "appName": "ANACONDA MyTV",
@@ -6,11 +5,7 @@
   "bundledWebRuntime": false,
   "plugins": {
     "SplashScreen": {
-      "launchShowDuration": 2000,
-      "backgroundColor": "#0A0A0A"
+      "launchShowDuration": 1000
     }
-  },
-  "android": {
-    "backgroundColor": "#0A0A0A"
   }
 }

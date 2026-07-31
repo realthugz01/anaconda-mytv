@@ -1,7 +1,7 @@
 
 # ANACONDA MyTV - IPTV Player for Android TV
 
-![Build APK](https://github.com/YOUR_USERNAME/anaconda-mytv/actions/workflows/build-apk.yml/badge.svg)
+![Build APK](https://github.com/realthugz01/anaconda-mytv/actions/workflows/build-apk.yml/badge.svg)
 
 Premium IPTV player met Formuler MyTV Online 3 design voor Android TV boxes.
 
@@ -31,7 +31,7 @@ git init
 git add .
 git commit -m "ANACONDA MyTV v1.0"
 git branch -M main
-git remote add origin https://github.com/JOUW_USERNAME/anaconda-mytv.git
+git remote add origin https://github.com/realthugz01/anaconda-mytv.git
 git push -u origin main
 ```
 

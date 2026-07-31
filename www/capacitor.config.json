@@ -1,0 +1,27 @@
+{
+  "appId": "com.anaconda.mytv",
+  "appName": "ANACONDA MyTV",
+  "webDir": "www",
+  "bundledWebRuntime": false,
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 1000
+    },
+    "CapacitorScreenDensity": {
+      "supportedDensities": [
+        213,
+        240,
+        320
+      ]
+    }
+  },
+  "android": {
+    "allowMixedContent": true,
+    "captureInput": true,
+    "webContentsDebuggingEnabled": false,
+    "useLegacyBridge": false,
+    "backgroundColor": "#000000",
+    "supportsTablet": true,
+    "supportsTv": true
+  }
+}
